@@ -7,9 +7,9 @@ var moreNumbers = 88222111444
 var depositPaid = true
 var isBoolean = true
 var isFalse = false
-var email = "worldHasEnded@email"
-var name = "Chuck"
-var numbers = "111111"
+email = "worldHasEnded@email"
+name = "Chuck"
+numbers = "111111"
 console.log(email)
 console.log(name)
 console.log(numbers)
